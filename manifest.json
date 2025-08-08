@@ -1,0 +1,9 @@
+{
+  "name": "The Pynk Spice",
+  "short_name": "PynkSpice",
+  "description": "Vegetarian Food Orders",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#ff69b4",
+  "background_color": "#fff0f5"
+}
